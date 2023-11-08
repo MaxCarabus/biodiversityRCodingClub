@@ -1,0 +1,11 @@
+species,bodyMass,bodyLength,tailLength,IUCN,RedDataBookKZ
+Felis lybica,3.8,59.5,33.4,LC,0
+Felis chaus,8.1,76.3,26.3,LC,0
+Lynx lynx,21,105,23,LC,0
+Lynx lynx isabellinus,22,91,17,VU,1
+Caracal caracal,1.2,78.3,29.2,LC,1
+Otocolobus manul,4.3,53.5,28.0,LC,1
+Felis margarita,2.8,45.0,28.5,LC,1
+Panthera uncia,40,137,103,VU,1
+Acinonyx jubatus,51,128,63,VU,1
+Panthera tigris virgata,240,224,89,EX,0
