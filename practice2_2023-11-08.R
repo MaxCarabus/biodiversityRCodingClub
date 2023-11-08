@@ -1,3 +1,5 @@
+# второй семинар - 8 ноября 2023 года, первый график и ggplot и описательная статистика
+
 # задаём рабочую директорию через меню RStudio
 # Session -> Set Working Directory -> Choose Directory
 
