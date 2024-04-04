@@ -7,7 +7,7 @@ social_survey.csv - первичные данные опросов
 RcodingClub_2024-01-24.R - скрипт
 
 #### 2024-04-03 Пространственная визуализация данных Бюро Национальной Статистики
-RcodingClub_2024-04-03.R - скрипт
+RcodingClub_2024-04-03_Stat_gov.R - скрипт
 [сводка по демографическим рядам](https://stat.gov.kz/ru/industries/social-statistics/demography/dynamic-tables)
 
 Дополнительные материалы: [Введение в Tidyterra](https://dieghernan.github.io/tidyterra/articles/welcome.html)
