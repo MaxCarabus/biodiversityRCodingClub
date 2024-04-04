@@ -10,4 +10,4 @@ RcodingClub_2024-01-24.R - скрипт
 RcodingClub_2024-04-03_Stat_gov.R - скрипт
 [сводка по демографическим рядам](https://stat.gov.kz/ru/industries/social-statistics/demography/dynamic-tables)
 
-Дополнительные материалы: [Введение в Tidyterra](https://dieghernan.github.io/tidyterra/articles/welcome.html)
+Дополнительные материалы: [введение в Tidyterra](https://dieghernan.github.io/tidyterra/articles/welcome.html)
